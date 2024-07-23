@@ -13,17 +13,18 @@ Para descargar los archivos, podés hacerlo de la siguiente manera:
 1. **Clonar el repositorio**: Para clonar el repositorio, podés hacerlo con el siguiente comando:
 
 ```bash
-git clone
+git clone https://github.com/PedroMVillar/ExamenesViejos-Resueltos-FaMAF
 ```
 
 2. **Descargar un archivo específico**: Para descargar un archivo específico, podés hacerlo de la siguiente manera:
 
 ```bash
-wget https://raw.githubusercontent.com/username/ExamenesViejos-Resueltos-FaMAF/master/path/to/file
+wget https://raw.githubusercontent.com/PedroMVillar/ExamenesViejos-Resueltos-FaMAF/master/path/to/file
 ```
 
 ## Contenidos
 
 ### Algoritmos y Estructuras de Datos I
 ### Algoritmos y Estructuras de Datos II
-s
+### Álgebra Lineal
+### Análisis Numérico
